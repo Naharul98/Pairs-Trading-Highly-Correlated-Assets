@@ -8,3 +8,14 @@ More often than not, asset prices in the stock market follow each other. When th
 ## Strategy Description
 * Observe price correlation of different assets in the market and pick a pair which has a high positive correlation with each other.
 * When the correlation breaks, make a bet that eventually things will get back to the usual state. i.e: revert back to the mean
+* Example backtest of the strategy is demonstrated in the Jypyter Notebook Demo
+
+## Libraries used
++ Yfinance
++ Pandas
++ Talib
++ Numpy
++ Plotly
++ Scipy
++ Backtesting.py
++ Seaborn
