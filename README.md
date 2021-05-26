@@ -1,7 +1,7 @@
 # Pairs-Trading-Highly-Correlated-Assets
-> Developing and backtesting performance of a market neutral trading strategy which aims to exploit temporary anomalies in correlation between 2 pair of assets.
+Developing and backtesting performance of a market neutral trading strategy which aims to exploit temporary anomalies in correlation between 2 pair of assets.
 
-![Example Comparision ScreenShot](https://github.com/Naharul98/Stock-Market-Crash-Recovery-Analysis/blob/main/Screenshots/Sample-comparison.jpg?raw=true)
+![Example Comparision ScreenShot](https://github.com/Naharul98/Pairs-Trading-Highly-Correlated-Assets/blob/main/Screenshot/screenshot.jpg?raw=true)
 
 ## Project Demo
 
