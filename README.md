@@ -1,6 +1,9 @@
 # Pairs-Trading-Highly-Correlated-Assets
 Developing and backtesting performance of a market neutral trading strategy which aims to exploit temporary anomalies in correlation between 2 pair of assets.
 
+# Project Demo
+
+
 ## About the project
 
 More often than not, asset prices in the stock market follow each other. When the index goes up, it is highly likely other stocks (even the ones not in the index) will follow as well. The strategy aims to exploit this pattern by betting on *mean reversion.*
