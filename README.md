@@ -4,6 +4,7 @@ Developing and backtesting performance of a market neutral trading strategy whic
 ## Project Demo
 * [Jupyter Notebook Demo](https://nbviewer.jupyter.org/github/Naharul98/Pairs-Trading-Highly-Correlated-Assets/blob/main/Pairs-Trading-Highly-Correlated-Assets.ipynb)
 
+## Screenshots
 ![Example Comparision ScreenShot](https://github.com/Naharul98/Pairs-Trading-Highly-Correlated-Assets/blob/main/Screenshot/screenshot.jpg?raw=true)
 
 ## About the project
